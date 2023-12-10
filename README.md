@@ -24,7 +24,7 @@ interface ITech {
 
 interface IProfile {
     keywords: Array<string>;
-    technologies: Array<ITech>;
+    technologies: ITech;
     architecture: Array<string>;
 }
 
