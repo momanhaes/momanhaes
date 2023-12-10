@@ -11,21 +11,21 @@ Tive meu primeiro contato com programação em 2010, virei desenvolvedor de soft
 
 ```typescript
 
-export interface ITech {
-    backend: string[];
-    frontend: string[];
-    mobile: string[];
-    integration: string[];
-    testing: string[];
-    backend: string[];
-    database: string[];
-    devops: string[];
+interface ITech {
+    backend: Array<string>;
+    frontend: Array<string>;
+    mobile: Array<string>;
+    integration: Array<string>;
+    testing: Array<string>;
+    backend: Array<string>;
+    database: Array<string>;
+    devops: Array<string>;
 }
 
-export interface IProfile {
-    keywords: string[];
-    technologies: ITech[];
-    architecture: string[];
+interface IProfile {
+    keywords: Array<string>;
+    technologies: Array<ITech>;
+    architecture: Array<string>;
 }
 
 const momanhaes: IProfile = {
