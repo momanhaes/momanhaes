@@ -7,7 +7,7 @@
     <a href="https://www.instagram.com/manhaesdev/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
-Tive meu primeiro contato com programação em 2010, virei desenvolvedor de software profissional em 2019, mas sou entusiasta de tecnologia desde que me entendo por gente. Sou bacharel em Sistemas de Informação e adoro fazer parte de projetos da comunidade e hackathons. Ah, também amo aprender coisas novas, ouvir boa música e assistir filmes cult.
+Tive meu primeiro contato com programação em 2010, trabalho com TI desde 2013, virei desenvolvedor de software profissional em 2019, mas sou entusiasta de tecnologia desde que me entendo por gente. Sou bacharel em Sistemas de Informação e adoro fazer parte de projetos da comunidade e hackathons. Ah, também amo aprender coisas novas, ouvir boa música e assistir filmes cult.
 
 ```typescript
 
