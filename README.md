@@ -15,6 +15,8 @@ Tenho foco em arquitetura front-end, boas práticas, reutilização de component
 
 Também tenho participação ativa em iniciativas da comunidade e hackathons, com projetos premiados e experiência em trabalho colaborativo e inovação.
 
+Aqui você vai encontrar o que eu gosto de desenvolver nas horas vagas.
+
 ```typescript
 
 interface ITech {
